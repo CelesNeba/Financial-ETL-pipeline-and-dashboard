@@ -18,5 +18,5 @@ Customer transaction analytics &amp; risk insights
 
 ### Outcome/business value:
 
-A single analytics pipeline and interactive dashboards that let product, risk, and finance teams explore revenue, transaction trends, risk (fraud), and customer health — enabling targeted retention campaigns, fraud mitigation, and more profitable product prioritization.
+A single analytics pipeline and interactive dashboards that let product, risk, and finance teams explore revenue, transaction trends, risk (fraud), and customer health, enabling targeted retention campaigns, fraud mitigation, and more profitable product prioritization.
 
