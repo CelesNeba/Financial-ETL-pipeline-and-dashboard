@@ -32,7 +32,7 @@ A single analytics pipeline and interactive dashboards that let product, risk, a
 
 You can **click below to view or download the financial transactions dataset** used in this project:
 
-[ Download/View Financial Transactions Dataset](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/financial_transactions_sample.csv)
+[ Download/View Financial Transactions Dataset](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/financial_transactions_2000.csv)
 
 > **Note:** This is a synthetic dataset generated for demonstration purposes. It simulates realistic financial transactions, customers, and fraud patterns.
 
