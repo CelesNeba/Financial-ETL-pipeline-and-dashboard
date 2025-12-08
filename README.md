@@ -37,4 +37,55 @@ You can **click below to view or download the financial transactions dataset** u
 > **Note:** This is a synthetic dataset generated for demonstration purposes. It simulates realistic financial transactions, customers, and fraud patterns.
 
 
+## ETL & analysis workflow
 
+### Ingest (Extract)
+
+* Source: local CSV (for this project) — later could be S3, API, or streaming.
+
+* Tools: Python + pandas or an ingestion job using Airflow operator (S3ToGCS / S3ToRedshift etc.)
+
+* Validate schema (types, nulls), sampling quality checks, row counts.
+
+
+#### Stage & raw layer
+
+* Load raw CSV into a raw.transactions table in my data warehouse (keep exactly as ingested).
+
+* Keep raw files/metadata (source filename, ingestion timestamp, row_count).
+
+
+## Transform (Cleaning + business logic)
+
+
+* Remove duplicates based on transaction_id.
+
+* Normalize merchant categories (mapping table).
+
+* Convert transaction_date to date/time with timezone if needed.
+
+* Add flags: is_recurring (if merchant repeated each month), is_salary, rolling_30d_spend, active_30d etc.
+
+
+### Aggregate base tables:
+
+* dim_customers — 1 row per customer (customer-level attributes)
+
+* fact_transactions — cleaned transactions
+
+* agg_customer_monthly — monthly aggregates per customer
+
+
+## Enrich
+
+* Join external tables (merchant risk score, MCC codes, macro indicators).
+
+* Feature engineering for churn/fraud:
+
+* tx_count_30d, avg_amount_90d, pct_online_tx, decline_rate, largest_tx_amount, gini_spend (concentration)
+
+* label churn = no tx in last X months (choose X = 3/6)
+
+## Load to the analytics layer
+
+* Store final models/tables: mart_customer_health, mart_fraud_alerts, mart_revenue_by_category.
