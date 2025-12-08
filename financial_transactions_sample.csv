@@ -1,0 +1,1001 @@
+transaction_id,customer_id,transaction_date,transaction_type,amount,merchant_category
+2377,539,2023-09-28,debit,2775,Rent
+247,259,2023-03-10,debit,807,Restaurants
+5516,451,2023-05-13,credit,4705,Groceries
+8082,401,2023-12-05,debit,731,Utilities
+6676,928,2023-01-08,debit,1550,Rent
+4837,620,2023-10-28,credit,426,Entertainment
+955,408,2023-04-22,debit,3025,Restaurants
+5661,566,2023-09-21,credit,4204,Groceries
+1440,296,2023-12-30,debit,2720,Travel
+3115,353,2023-10-14,debit,4094,Restaurants
+6105,639,2023-10-25,debit,1849,Rent
+7473,526,2023-02-23,debit,23,Restaurants
+173,961,2023-08-03,debit,721,Rent
+7123,608,2023-05-11,debit,1481,Travel
+6394,718,2023-04-01,debit,752,Groceries
+6715,901,2023-06-15,debit,4158,Rent
+2916,777,2023-11-23,debit,808,Travel
+6639,957,2023-06-21,credit,2831,Entertainment
+3813,813,2023-02-24,debit,3308,Utilities
+6159,63,2023-05-06,credit,3783,Utilities
+3468,10,2023-05-21,credit,3605,Utilities
+5870,126,2023-05-06,debit,4536,Groceries
+3254,803,2023-01-02,debit,4406,Utilities
+3980,573,2023-01-31,debit,2881,Entertainment
+5879,517,2023-03-15,debit,4177,Entertainment
+735,617,2023-04-03,debit,1783,Travel
+7651,980,2023-12-16,debit,3818,Entertainment
+1280,554,2023-03-10,debit,3621,Entertainment
+3322,989,2023-04-23,debit,3161,Restaurants
+7829,427,2023-02-12,debit,3297,Utilities
+7137,936,2023-10-03,debit,3942,Groceries
+7686,368,2023-10-29,credit,288,Groceries
+8152,58,2023-05-09,credit,1368,Travel
+8557,195,2023-10-04,debit,3667,Restaurants
+8884,889,2023-03-30,credit,4930,Restaurants
+8403,203,2023-07-02,debit,3560,Travel
+7939,493,2023-11-21,credit,646,Groceries
+5067,561,2023-04-30,debit,2164,Groceries
+4756,343,2023-07-05,credit,354,Restaurants
+4028,277,2023-09-01,debit,2760,Entertainment
+8916,298,2023-02-03,debit,1511,Rent
+2080,3,2023-10-02,credit,1662,Entertainment
+4187,476,2023-07-11,debit,168,Travel
+8208,924,2023-04-27,debit,801,Travel
+176,943,2023-09-04,credit,3543,Utilities
+7409,108,2023-08-22,credit,2062,Online Retail
+6646,365,2023-11-16,debit,1148,Rent
+6474,48,2023-05-01,credit,3216,Entertainment
+2441,206,2023-07-13,debit,338,Entertainment
+5844,428,2023-08-06,debit,1611,Online Retail
+8175,276,2023-04-18,debit,4771,Restaurants
+5479,427,2023-10-20,credit,351,Entertainment
+577,572,2023-10-20,credit,1390,Rent
+8058,123,2023-07-12,credit,3230,Entertainment
+2101,187,2023-04-04,credit,4988,Groceries
+5677,815,2023-03-28,credit,2298,Restaurants
+4876,116,2023-06-27,debit,3917,Entertainment
+1663,952,2023-03-28,debit,1066,Groceries
+1940,44,2023-11-16,debit,412,Rent
+9339,951,2023-10-14,debit,1340,Groceries
+1703,380,2023-07-05,credit,2321,Travel
+8182,987,2023-10-18,debit,2246,Utilities
+1056,449,2023-07-30,debit,3652,Utilities
+4185,131,2023-09-20,credit,221,Entertainment
+3598,725,2023-09-25,debit,2683,Online Retail
+9132,804,2023-07-22,debit,1552,Travel
+3329,254,2023-03-09,debit,2784,Rent
+2556,900,2023-01-03,credit,927,Rent
+7369,988,2023-09-02,debit,4572,Rent
+7015,270,2023-12-03,debit,4342,Entertainment
+8669,428,2023-10-31,credit,3820,Restaurants
+2899,473,2023-03-03,debit,4592,Online Retail
+6696,683,2023-07-28,credit,1538,Entertainment
+4143,924,2023-10-31,debit,2353,Utilities
+925,764,2023-05-26,credit,4671,Rent
+8934,808,2023-11-11,credit,1907,Rent
+6206,444,2023-02-26,debit,990,Utilities
+9571,130,2023-09-11,credit,4842,Entertainment
+9439,751,2023-10-08,credit,801,Online Retail
+1385,613,2023-04-13,debit,4436,Online Retail
+7107,935,2023-01-20,debit,3270,Entertainment
+7847,441,2023-08-19,debit,2085,Online Retail
+8747,859,2023-05-31,debit,615,Online Retail
+9214,819,2023-07-29,credit,1474,Entertainment
+822,935,2023-06-27,credit,1541,Travel
+9386,321,2023-12-25,debit,3512,Rent
+1651,63,2023-09-14,debit,327,Utilities
+8381,508,2023-08-12,debit,4102,Restaurants
+2793,428,2023-01-14,debit,915,Online Retail
+3021,918,2023-08-11,debit,2946,Rent
+3354,329,2023-04-10,credit,1326,Online Retail
+2578,147,2023-04-04,credit,1193,Rent
+4734,369,2023-10-27,debit,547,Utilities
+1421,229,2023-11-16,debit,747,Utilities
+4523,240,2023-05-02,debit,4146,Entertainment
+5159,496,2023-08-10,debit,973,Rent
+9531,721,2023-11-01,debit,2774,Online Retail
+4803,517,2023-07-04,debit,3994,Groceries
+9009,595,2023-08-16,debit,3508,Online Retail
+3193,872,2023-11-03,debit,4278,Rent
+5115,698,2023-01-19,credit,3919,Rent
+6662,926,2023-11-14,credit,1180,Utilities
+2099,964,2023-04-25,debit,2345,Entertainment
+927,676,2023-03-03,debit,2481,Utilities
+9600,101,2023-07-14,debit,4870,Travel
+1397,581,2023-10-29,debit,2330,Travel
+6622,104,2023-01-03,credit,1086,Rent
+4730,646,2023-02-07,debit,3739,Restaurants
+34,314,2023-01-16,debit,2529,Groceries
+2186,332,2023-10-30,debit,4324,Groceries
+9505,10,2023-09-19,debit,4012,Rent
+6542,336,2023-11-29,credit,4354,Restaurants
+7641,809,2023-10-19,debit,115,Restaurants
+3279,537,2023-10-16,debit,3933,Groceries
+2562,515,2023-07-09,credit,2296,Travel
+5833,483,2023-03-06,debit,4212,Groceries
+9938,110,2023-01-27,credit,250,Groceries
+3444,744,2023-01-16,debit,300,Groceries
+7474,239,2023-11-05,credit,2813,Travel
+6910,86,2023-02-10,credit,3072,Utilities
+1021,929,2023-02-22,debit,3270,Utilities
+356,151,2023-05-09,debit,4153,Travel
+3128,828,2023-03-01,debit,787,Utilities
+3691,473,2023-07-14,debit,2055,Travel
+1795,158,2023-08-28,debit,1688,Restaurants
+5746,563,2023-04-19,debit,66,Utilities
+4780,483,2023-02-14,debit,4461,Restaurants
+9080,464,2023-11-17,debit,4715,Rent
+5073,154,2023-09-07,debit,2452,Online Retail
+6680,235,2023-12-21,debit,1946,Rent
+6070,212,2023-08-17,debit,1615,Travel
+8757,135,2023-07-08,debit,1433,Groceries
+7679,727,2023-06-10,debit,2355,Entertainment
+169,872,2023-05-12,debit,3958,Entertainment
+5114,401,2023-03-15,debit,2266,Restaurants
+4152,537,2023-05-21,debit,4024,Entertainment
+8170,475,2023-09-04,credit,4216,Entertainment
+5937,82,2023-05-26,debit,3186,Travel
+9682,912,2023-10-15,debit,2137,Utilities
+182,503,2023-04-08,debit,877,Groceries
+8311,93,2023-09-17,credit,4613,Utilities
+8206,299,2023-02-10,credit,3827,Travel
+8775,177,2023-08-19,credit,4224,Entertainment
+7536,145,2023-02-07,debit,1190,Restaurants
+3267,405,2023-01-07,debit,4288,Rent
+9368,440,2023-11-27,debit,3700,Travel
+205,231,2023-07-26,debit,213,Groceries
+1466,198,2023-03-16,debit,4265,Utilities
+7459,687,2023-08-01,debit,4462,Online Retail
+6659,499,2023-07-15,credit,1648,Online Retail
+3549,963,2023-05-03,debit,1788,Utilities
+8333,849,2023-09-28,debit,2702,Entertainment
+9647,696,2023-08-26,credit,4664,Groceries
+408,338,2023-10-31,debit,4051,Rent
+8335,169,2023-01-02,debit,4093,Entertainment
+2984,945,2023-07-15,debit,3879,Travel
+8802,885,2023-07-22,credit,869,Rent
+6667,598,2023-09-06,debit,4252,Travel
+9478,154,2023-08-15,credit,10,Utilities
+8070,710,2023-01-17,credit,2067,Utilities
+1148,95,2023-11-25,debit,4204,Travel
+9710,140,2023-05-28,debit,2305,Online Retail
+7725,784,2023-02-28,debit,2484,Entertainment
+9581,818,2023-04-02,credit,1697,Entertainment
+2827,145,2023-06-09,credit,567,Travel
+3577,288,2023-05-15,debit,2182,Travel
+7518,575,2023-03-09,credit,906,Restaurants
+5323,516,2023-01-07,debit,20,Entertainment
+2127,885,2023-08-25,credit,2756,Restaurants
+9635,338,2023-04-22,credit,724,Groceries
+4945,127,2023-11-15,debit,1997,Entertainment
+6799,968,2023-08-08,debit,121,Rent
+2635,420,2023-02-28,credit,3251,Entertainment
+6399,937,2023-07-12,debit,419,Entertainment
+9099,432,2023-11-19,credit,1977,Online Retail
+640,76,2023-04-12,debit,3451,Online Retail
+6369,207,2023-03-27,credit,2393,Online Retail
+8465,683,2023-12-15,credit,1391,Online Retail
+9329,241,2023-07-20,credit,1891,Utilities
+4006,98,2023-12-15,credit,2821,Groceries
+2154,891,2023-02-08,credit,4726,Travel
+795,796,2023-02-15,debit,1427,Entertainment
+7480,795,2023-12-25,debit,3578,Travel
+8541,147,2023-03-12,credit,4581,Entertainment
+7705,99,2023-07-05,debit,2901,Travel
+3016,362,2023-06-26,debit,4064,Groceries
+7129,781,2023-01-24,debit,583,Groceries
+9134,776,2023-08-08,credit,3716,Entertainment
+9226,342,2023-08-12,debit,1053,Entertainment
+206,749,2023-05-31,credit,3755,Groceries
+9792,293,2023-08-05,debit,4426,Entertainment
+6302,247,2023-06-17,debit,619,Entertainment
+8350,188,2023-04-10,debit,2088,Travel
+5576,354,2023-11-02,debit,4088,Online Retail
+1386,329,2023-02-24,debit,4116,Groceries
+2650,186,2023-04-04,debit,4473,Online Retail
+4560,378,2023-03-29,debit,4385,Rent
+3505,408,2023-12-08,debit,1122,Utilities
+4223,930,2023-09-08,debit,4289,Utilities
+2308,989,2023-03-18,debit,2590,Entertainment
+2852,962,2023-10-21,credit,3137,Rent
+4355,255,2023-06-29,debit,1943,Online Retail
+1655,327,2023-10-15,debit,1351,Utilities
+8608,315,2023-05-20,credit,2045,Online Retail
+126,188,2023-01-04,credit,3353,Online Retail
+4516,332,2023-03-15,debit,4841,Rent
+3456,105,2023-11-25,debit,2229,Utilities
+8848,345,2023-10-21,debit,1930,Groceries
+6614,56,2023-11-09,debit,1118,Entertainment
+1046,85,2023-11-09,credit,4955,Travel
+3424,164,2023-04-06,debit,4778,Travel
+2129,493,2023-05-14,credit,588,Online Retail
+7831,886,2023-08-08,debit,2029,Online Retail
+760,999,2023-10-29,credit,3775,Restaurants
+9145,701,2023-04-12,debit,4863,Travel
+4323,437,2023-01-05,debit,4351,Online Retail
+9193,625,2023-10-06,credit,3365,Rent
+6513,804,2023-08-09,debit,3001,Utilities
+411,163,2023-03-09,credit,1896,Utilities
+6334,93,2023-02-22,debit,118,Restaurants
+8851,646,2023-10-15,credit,4637,Travel
+8866,600,2023-05-31,credit,3893,Online Retail
+5090,668,2023-02-04,debit,2339,Restaurants
+3908,991,2023-04-24,debit,1986,Utilities
+7054,699,2023-03-10,debit,545,Entertainment
+5886,59,2023-04-20,debit,1122,Restaurants
+982,752,2023-03-03,credit,2006,Groceries
+1817,4,2023-07-23,debit,1708,Groceries
+2432,536,2023-10-17,debit,2066,Rent
+8914,485,2023-08-21,debit,2942,Restaurants
+763,663,2023-03-14,debit,2772,Groceries
+1539,815,2023-02-11,debit,1186,Restaurants
+1546,616,2023-04-16,debit,1627,Utilities
+8036,36,2023-12-11,debit,2430,Entertainment
+5000,215,2023-07-12,credit,3421,Travel
+5100,452,2023-01-23,debit,712,Rent
+5600,405,2023-03-10,credit,4847,Utilities
+3412,65,2023-04-19,debit,206,Utilities
+9109,270,2023-03-09,credit,4522,Entertainment
+5700,382,2023-07-26,debit,1970,Rent
+2463,72,2023-12-04,debit,1052,Travel
+6971,503,2023-08-19,debit,2133,Online Retail
+1673,144,2023-06-01,debit,2777,Rent
+781,729,2023-07-23,credit,110,Utilities
+6885,584,2023-06-15,debit,2146,Restaurants
+1107,447,2023-05-26,debit,1273,Utilities
+2515,194,2023-11-11,debit,4769,Entertainment
+3750,57,2023-01-22,debit,484,Rent
+3638,781,2023-02-18,debit,478,Online Retail
+6205,140,2023-07-29,debit,3057,Rent
+7396,861,2023-04-15,debit,2681,Entertainment
+7900,423,2023-09-30,credit,3489,Travel
+6986,447,2023-06-25,debit,1074,Online Retail
+7530,432,2023-04-30,debit,1666,Restaurants
+551,834,2023-02-08,debit,882,Restaurants
+3703,393,2023-10-19,credit,4192,Online Retail
+8415,257,2023-05-17,credit,4056,Utilities
+1921,61,2023-07-10,debit,3455,Entertainment
+7596,733,2023-02-12,debit,4622,Groceries
+2579,567,2023-02-17,debit,4923,Restaurants
+8083,681,2023-07-17,debit,3258,Travel
+1275,776,2023-12-25,debit,1511,Entertainment
+3148,727,2023-10-08,debit,4808,Utilities
+4562,655,2023-02-06,credit,3199,Groceries
+1777,532,2023-08-11,credit,3675,Online Retail
+3308,79,2023-08-04,debit,144,Travel
+8181,102,2023-10-08,credit,2376,Online Retail
+6073,39,2023-04-27,debit,1960,Rent
+7876,159,2023-03-04,debit,2163,Travel
+8883,611,2023-05-28,debit,2229,Restaurants
+1000,251,2023-12-18,debit,4661,Entertainment
+5010,807,2023-08-05,debit,1370,Utilities
+757,99,2023-12-27,debit,4352,Entertainment
+2772,12,2023-11-02,debit,88,Restaurants
+4769,533,2023-01-28,debit,3519,Utilities
+9480,79,2023-06-05,debit,3666,Travel
+7312,556,2023-08-10,debit,1383,Rent
+4450,449,2023-09-25,credit,3204,Groceries
+8792,249,2023-07-30,credit,4907,Entertainment
+5988,352,2023-12-02,debit,4602,Travel
+5989,560,2023-12-15,credit,1529,Entertainment
+731,970,2023-02-06,credit,2818,Rent
+6008,947,2023-09-12,debit,209,Rent
+4092,238,2023-06-03,credit,1375,Utilities
+5795,864,2023-03-10,debit,3403,Online Retail
+4600,235,2023-11-07,debit,2719,Groceries
+7868,649,2023-04-08,credit,2429,Travel
+6036,800,2023-01-01,debit,3320,Utilities
+5857,451,2023-04-30,debit,2738,Restaurants
+3961,915,2023-05-07,debit,4029,Online Retail
+6839,751,2023-04-14,credit,526,Restaurants
+497,793,2023-12-03,debit,4456,Travel
+6025,137,2023-10-09,debit,315,Restaurants
+435,470,2023-09-09,debit,2205,Rent
+6599,534,2023-02-05,debit,3766,Travel
+1230,7,2023-12-13,debit,4269,Rent
+1161,667,2023-11-29,debit,1668,Groceries
+4127,544,2023-06-27,debit,638,Rent
+1954,339,2023-11-07,debit,2786,Entertainment
+5714,753,2023-08-31,credit,3089,Rent
+8427,598,2023-07-05,debit,3741,Groceries
+232,640,2023-08-19,debit,1162,Entertainment
+9278,189,2023-09-16,debit,2399,Restaurants
+3294,436,2023-11-01,credit,1056,Entertainment
+5826,336,2023-09-30,debit,3570,Restaurants
+3736,227,2023-12-17,debit,2520,Utilities
+179,769,2023-02-17,debit,3102,Restaurants
+5025,337,2023-05-20,debit,2408,Restaurants
+7797,228,2023-11-07,debit,3743,Travel
+3958,933,2023-07-21,debit,4179,Utilities
+6796,438,2023-07-02,debit,4632,Restaurants
+6018,284,2023-05-29,credit,4691,Restaurants
+3147,130,2023-03-30,debit,2671,Restaurants
+5327,631,2023-08-02,debit,2664,Groceries
+7195,568,2023-11-16,debit,1978,Utilities
+1585,825,2023-07-08,credit,476,Travel
+9707,620,2023-04-08,debit,1289,Online Retail
+5419,161,2023-10-16,credit,3813,Utilities
+4322,934,2023-09-15,debit,2622,Travel
+9733,337,2023-11-17,credit,4271,Entertainment
+5475,996,2023-08-28,debit,3595,Entertainment
+8681,850,2023-07-21,debit,3312,Restaurants
+6448,951,2023-01-09,debit,2835,Rent
+535,903,2023-07-03,credit,1846,Travel
+6058,73,2023-09-20,debit,319,Rent
+7700,355,2023-06-06,debit,2076,Online Retail
+6034,618,2023-10-21,credit,1123,Rent
+6102,650,2023-05-30,debit,4630,Entertainment
+2666,478,2023-02-21,debit,4155,Travel
+294,403,2023-08-21,debit,2683,Travel
+8316,947,2023-12-26,debit,800,Online Retail
+2296,414,2023-06-10,debit,114,Entertainment
+9856,447,2023-05-25,debit,4942,Rent
+9916,712,2023-05-10,debit,2047,Travel
+283,699,2023-10-04,credit,1711,Travel
+4452,93,2023-11-13,debit,2070,Online Retail
+1233,919,2023-04-04,debit,3527,Restaurants
+8330,490,2023-09-09,debit,4917,Rent
+6396,339,2023-10-16,debit,2543,Restaurants
+3659,515,2023-03-10,credit,4231,Travel
+5279,55,2023-01-16,debit,2838,Groceries
+4981,375,2023-11-07,debit,144,Restaurants
+7521,419,2023-06-17,debit,4569,Entertainment
+4929,647,2023-12-15,credit,4319,Online Retail
+9649,643,2023-06-16,debit,369,Utilities
+3483,79,2023-09-15,debit,2869,Entertainment
+2224,568,2023-10-07,debit,3281,Travel
+6529,59,2023-01-21,debit,1426,Groceries
+5975,367,2023-03-13,debit,1518,Groceries
+6158,866,2023-09-06,debit,3524,Online Retail
+9033,331,2023-02-06,debit,3180,Groceries
+3648,463,2023-02-28,debit,613,Online Retail
+156,201,2023-12-18,debit,3700,Travel
+6710,695,2023-02-01,debit,2629,Utilities
+9788,378,2023-06-24,credit,1897,Entertainment
+4136,109,2023-12-28,debit,1335,Groceries
+8858,491,2023-12-08,credit,4472,Groceries
+5169,210,2023-12-28,debit,221,Rent
+4283,547,2023-11-28,credit,784,Travel
+3495,101,2023-03-28,debit,3407,Utilities
+6432,557,2023-04-19,credit,659,Rent
+4352,937,2023-02-17,credit,862,Restaurants
+6211,665,2023-10-20,credit,2044,Restaurants
+7378,138,2023-08-26,debit,3731,Online Retail
+200,96,2023-02-13,credit,3654,Utilities
+8550,597,2023-06-02,credit,11,Utilities
+6380,632,2023-04-03,debit,2690,Groceries
+1618,640,2023-10-13,credit,483,Utilities
+6688,138,2023-05-27,credit,1213,Groceries
+8200,810,2023-06-03,credit,102,Online Retail
+5729,10,2023-05-30,credit,261,Groceries
+6987,844,2023-06-12,credit,527,Utilities
+2258,826,2023-11-04,credit,2912,Entertainment
+9224,875,2023-01-08,debit,3589,Rent
+3282,253,2023-09-11,debit,2846,Groceries
+6395,413,2023-08-24,debit,4160,Utilities
+7930,772,2023-12-08,debit,2990,Online Retail
+4680,806,2023-06-07,debit,2221,Utilities
+4509,127,2023-06-08,debit,4812,Restaurants
+4933,25,2023-09-28,debit,209,Entertainment
+4222,272,2023-06-24,debit,1608,Rent
+589,823,2023-01-16,debit,453,Entertainment
+2356,738,2023-02-05,credit,541,Online Retail
+3136,776,2023-12-23,credit,569,Online Retail
+3934,672,2023-06-18,debit,1183,Groceries
+9895,410,2023-07-14,debit,1781,Groceries
+3791,868,2023-08-21,debit,722,Rent
+4340,334,2023-05-14,debit,476,Entertainment
+3167,303,2023-06-27,debit,4889,Online Retail
+1763,700,2023-08-20,debit,2566,Restaurants
+7103,474,2023-05-21,debit,1122,Rent
+6888,56,2023-07-05,debit,174,Rent
+7954,596,2023-01-24,debit,3753,Restaurants
+2792,919,2023-10-16,credit,2400,Travel
+7181,883,2023-10-04,debit,2493,Groceries
+852,517,2023-03-21,debit,1722,Restaurants
+1790,854,2023-11-29,debit,4899,Travel
+5908,526,2023-07-01,debit,1287,Rent
+6297,234,2023-10-22,debit,3927,Groceries
+5509,944,2023-11-09,debit,2007,Online Retail
+7243,288,2023-06-26,credit,2931,Restaurants
+2068,748,2023-08-16,debit,3270,Groceries
+1637,666,2023-08-14,debit,3216,Rent
+8768,799,2023-04-12,debit,117,Restaurants
+7584,103,2023-08-12,debit,3944,Rent
+7582,876,2023-10-07,debit,1198,Entertainment
+467,220,2023-05-14,debit,4156,Rent
+6480,314,2023-06-25,debit,1022,Groceries
+4229,47,2023-01-16,debit,471,Restaurants
+8881,272,2023-07-11,credit,781,Groceries
+3000,312,2023-08-28,credit,3113,Utilities
+7115,2,2023-05-12,debit,4975,Rent
+1619,939,2023-01-22,debit,4721,Restaurants
+2405,832,2023-12-20,debit,1808,Groceries
+1483,157,2023-01-09,debit,4008,Entertainment
+5926,669,2023-10-03,debit,4390,Restaurants
+9706,398,2023-10-12,credit,3959,Restaurants
+5827,390,2023-07-07,credit,2695,Online Retail
+7215,450,2023-03-19,debit,1115,Travel
+2115,845,2023-05-01,debit,1427,Restaurants
+2298,586,2023-10-13,debit,488,Groceries
+3235,466,2023-12-02,debit,316,Entertainment
+724,35,2023-04-04,debit,1657,Restaurants
+9748,612,2023-09-20,debit,3760,Online Retail
+3476,759,2023-07-22,debit,2081,Groceries
+8561,334,2023-09-27,credit,4214,Utilities
+508,854,2023-11-19,debit,967,Entertainment
+5882,846,2023-10-19,debit,2296,Rent
+9370,963,2023-01-01,debit,3183,Groceries
+1206,257,2023-11-17,debit,16,Entertainment
+6248,465,2023-01-31,debit,4425,Utilities
+9950,232,2023-07-25,debit,3272,Online Retail
+4740,500,2023-03-31,credit,2622,Groceries
+5659,761,2023-01-26,debit,4507,Travel
+5794,544,2023-12-28,debit,2368,Travel
+3414,213,2023-09-05,debit,3918,Travel
+4249,533,2023-04-03,credit,3312,Rent
+810,891,2023-09-06,debit,3628,Entertainment
+7448,694,2023-11-18,debit,3690,Entertainment
+5598,552,2023-01-20,debit,1577,Restaurants
+6939,940,2023-02-03,debit,644,Entertainment
+4141,162,2023-09-06,debit,3641,Rent
+645,86,2023-04-21,debit,1880,Groceries
+6972,679,2023-04-15,debit,2428,Rent
+8745,615,2023-06-11,credit,3602,Utilities
+5142,713,2023-03-08,debit,4040,Restaurants
+3178,400,2023-05-05,debit,4462,Rent
+8065,755,2023-10-26,credit,191,Groceries
+9934,816,2023-09-11,debit,3279,Online Retail
+1948,497,2023-06-20,debit,4138,Rent
+794,455,2023-09-16,debit,896,Groceries
+5838,555,2023-01-28,credit,4613,Utilities
+8304,348,2023-08-04,credit,3599,Online Retail
+7671,714,2023-03-14,debit,3170,Restaurants
+381,208,2023-08-08,debit,4219,Travel
+6908,101,2023-04-21,debit,4618,Rent
+7130,171,2023-09-28,credit,1547,Travel
+4779,637,2023-09-02,credit,2475,Restaurants
+6660,950,2023-12-24,debit,145,Rent
+1620,955,2023-09-16,debit,4897,Online Retail
+5190,905,2023-01-13,debit,4866,Restaurants
+5187,173,2023-06-01,debit,2802,Online Retail
+3304,917,2023-02-28,debit,2825,Groceries
+6725,678,2023-08-10,debit,2637,Restaurants
+2670,526,2023-03-07,debit,1740,Online Retail
+9641,810,2023-07-02,credit,3576,Utilities
+9140,361,2023-10-25,debit,3146,Groceries
+4529,250,2023-11-25,debit,753,Restaurants
+4713,818,2023-09-08,debit,3841,Restaurants
+7175,268,2023-03-19,debit,4830,Groceries
+3005,952,2023-11-03,debit,1355,Rent
+4290,281,2023-11-09,debit,1090,Travel
+3689,866,2023-01-15,credit,1203,Rent
+6065,43,2023-02-12,debit,1507,Entertainment
+6761,726,2023-09-29,debit,288,Utilities
+749,676,2023-08-08,debit,3054,Entertainment
+8075,142,2023-12-19,credit,3696,Entertainment
+5897,990,2023-10-18,debit,2031,Travel
+5806,826,2023-06-11,debit,571,Entertainment
+3957,730,2023-12-30,debit,2781,Online Retail
+4844,228,2023-12-13,debit,2110,Entertainment
+279,613,2023-01-25,debit,2813,Restaurants
+7061,837,2023-07-08,credit,4956,Rent
+4130,907,2023-07-15,debit,1193,Rent
+8233,884,2023-05-15,credit,2260,Travel
+6203,129,2023-11-10,credit,3803,Rent
+9594,877,2023-05-25,debit,671,Entertainment
+9150,753,2023-01-15,credit,1889,Groceries
+7231,371,2023-01-28,debit,4836,Online Retail
+1813,758,2023-04-01,debit,831,Rent
+4007,144,2023-03-29,credit,1620,Utilities
+9202,935,2023-11-19,credit,3848,Rent
+8102,355,2023-08-01,debit,949,Utilities
+5238,17,2023-08-23,debit,2978,Restaurants
+8032,314,2023-08-15,debit,1905,Rent
+6135,694,2023-06-04,debit,344,Utilities
+9388,897,2023-09-09,credit,3511,Restaurants
+9064,897,2023-04-29,debit,1145,Entertainment
+3507,664,2023-04-20,debit,4961,Utilities
+433,955,2023-11-14,debit,3756,Restaurants
+4142,260,2023-10-06,credit,2320,Rent
+1840,588,2023-11-28,debit,4095,Travel
+6932,486,2023-04-26,debit,2280,Travel
+9657,868,2023-06-03,debit,1255,Groceries
+7187,481,2023-12-29,credit,82,Restaurants
+9349,413,2023-11-16,credit,967,Travel
+7111,473,2023-06-14,debit,2605,Online Retail
+2993,108,2023-04-09,debit,979,Utilities
+4036,655,2023-05-09,credit,1472,Restaurants
+5271,421,2023-10-06,debit,2993,Travel
+6519,938,2023-01-10,credit,2858,Travel
+9655,712,2023-06-16,debit,2784,Online Retail
+6260,677,2023-11-21,credit,4698,Groceries
+5482,187,2023-06-15,credit,2828,Online Retail
+7333,378,2023-08-21,credit,3415,Online Retail
+7250,83,2023-01-25,debit,3833,Restaurants
+2447,740,2023-03-13,debit,4676,Travel
+8014,527,2023-09-25,credit,4605,Online Retail
+4138,533,2023-08-09,debit,4326,Restaurants
+6225,389,2023-04-15,credit,930,Travel
+8761,347,2023-09-19,credit,67,Online Retail
+6431,333,2023-02-09,debit,2359,Travel
+8877,137,2023-02-01,debit,1991,Entertainment
+9408,699,2023-09-08,credit,458,Rent
+3521,391,2023-12-08,debit,269,Online Retail
+6831,511,2023-07-13,debit,1506,Travel
+4184,982,2023-01-12,debit,4217,Groceries
+2573,909,2023-01-04,debit,3016,Travel
+2800,308,2023-06-21,credit,4787,Travel
+9078,1,2023-04-23,debit,1889,Online Retail
+9919,70,2023-12-04,credit,1998,Utilities
+1341,392,2023-08-19,debit,1557,Online Retail
+6803,150,2023-09-02,debit,4405,Restaurants
+7470,774,2023-02-02,debit,4077,Rent
+5807,801,2023-02-11,debit,3459,Restaurants
+5550,116,2023-12-09,debit,1486,Restaurants
+8553,136,2023-12-24,debit,4734,Utilities
+9067,200,2023-07-08,debit,825,Restaurants
+4317,508,2023-03-02,credit,1019,Groceries
+5560,58,2023-09-09,debit,2495,Groceries
+1152,520,2023-05-01,debit,965,Travel
+1004,801,2023-02-27,credit,4190,Travel
+5468,247,2023-12-03,debit,781,Entertainment
+3769,536,2023-09-02,debit,2610,Entertainment
+4124,366,2023-07-23,debit,2017,Travel
+8539,589,2023-05-25,debit,2657,Online Retail
+1247,485,2023-04-11,debit,4256,Groceries
+9405,171,2023-08-24,credit,4012,Online Retail
+2477,801,2023-07-15,credit,797,Online Retail
+9161,82,2023-12-06,credit,4886,Online Retail
+186,795,2023-07-04,debit,3931,Entertainment
+1001,877,2023-11-29,credit,2710,Groceries
+8760,340,2023-12-09,debit,3299,Restaurants
+3058,242,2023-02-15,debit,1383,Entertainment
+4966,910,2023-10-26,debit,207,Online Retail
+7011,979,2023-03-24,debit,702,Travel
+4412,669,2023-10-20,debit,2119,Online Retail
+9307,363,2023-04-01,debit,175,Rent
+5456,883,2023-10-09,debit,3598,Online Retail
+7433,543,2023-09-25,debit,3924,Rent
+1077,389,2023-05-13,debit,3962,Restaurants
+3581,522,2023-12-11,credit,3478,Entertainment
+9371,568,2023-07-09,credit,2530,Travel
+1766,897,2023-11-29,credit,3816,Groceries
+3164,845,2023-02-12,credit,2675,Utilities
+5938,474,2023-06-08,debit,1835,Groceries
+7288,250,2023-06-04,debit,608,Groceries
+6343,925,2023-11-09,debit,4210,Online Retail
+2466,990,2023-11-26,debit,4116,Groceries
+3376,124,2023-01-29,credit,3206,Entertainment
+9931,756,2023-04-24,debit,4482,Groceries
+6171,875,2023-12-16,debit,1620,Entertainment
+7888,187,2023-11-16,credit,655,Groceries
+5229,849,2023-04-30,debit,3667,Utilities
+8080,527,2023-08-09,debit,2245,Rent
+5964,495,2023-09-23,credit,3917,Restaurants
+6256,726,2023-01-30,credit,4050,Groceries
+4482,318,2023-03-27,credit,1226,Rent
+9562,344,2023-12-29,debit,2952,Rent
+6506,400,2023-06-21,debit,1272,Rent
+5814,315,2023-06-19,debit,797,Travel
+2242,681,2023-10-12,debit,4680,Entertainment
+5669,934,2023-04-29,debit,4938,Restaurants
+8346,673,2023-04-16,credit,1958,Groceries
+6100,304,2023-07-06,credit,4614,Restaurants
+3307,537,2023-11-10,debit,1555,Groceries
+41,59,2023-01-05,debit,698,Online Retail
+8177,679,2023-11-19,credit,1547,Groceries
+5045,847,2023-04-21,debit,3806,Travel
+2173,357,2023-09-28,credit,840,Online Retail
+8566,614,2023-07-18,debit,3295,Entertainment
+9585,954,2023-04-18,credit,2436,Rent
+1540,346,2023-10-11,credit,3516,Restaurants
+4675,475,2023-10-13,credit,1598,Groceries
+8469,421,2023-09-23,credit,4817,Rent
+2934,975,2023-08-13,debit,1979,Restaurants
+9019,548,2023-09-01,debit,2665,Rent
+1806,521,2023-03-03,debit,120,Travel
+8439,229,2023-08-12,debit,2266,Online Retail
+9673,118,2023-03-04,credit,4135,Utilities
+3572,693,2023-05-26,debit,500,Entertainment
+1602,666,2023-04-29,debit,1551,Entertainment
+930,532,2023-04-24,debit,3186,Groceries
+1875,794,2023-08-09,debit,1907,Online Retail
+6117,888,2023-04-06,debit,465,Utilities
+5575,278,2023-04-06,debit,2305,Restaurants
+7431,674,2023-09-24,debit,2265,Travel
+3853,302,2023-01-03,debit,2317,Restaurants
+9778,619,2023-08-03,debit,851,Utilities
+1335,947,2023-06-30,debit,2832,Utilities
+3031,984,2023-10-23,credit,1376,Groceries
+2968,964,2023-08-07,debit,837,Online Retail
+1771,746,2023-05-10,debit,3353,Entertainment
+1074,961,2023-12-18,debit,4349,Restaurants
+9728,457,2023-02-15,debit,214,Groceries
+8011,78,2023-09-02,debit,1157,Entertainment
+2626,382,2023-02-12,credit,1562,Online Retail
+1238,274,2023-01-31,debit,3372,Rent
+8583,306,2023-05-22,debit,743,Travel
+7495,26,2023-01-14,debit,2200,Utilities
+7036,758,2023-08-19,debit,3837,Groceries
+6596,769,2023-01-06,credit,1849,Utilities
+3660,703,2023-03-22,debit,3440,Utilities
+4766,341,2023-01-11,credit,3776,Travel
+3763,698,2023-11-27,debit,2171,Utilities
+5578,937,2023-06-28,debit,2371,Utilities
+7874,490,2023-09-27,credit,1609,Utilities
+8139,566,2023-06-23,debit,1782,Travel
+2994,586,2023-01-27,credit,2556,Groceries
+6261,599,2023-08-25,debit,4521,Rent
+4080,508,2023-08-09,debit,4417,Travel
+1555,460,2023-11-24,debit,943,Restaurants
+7072,487,2023-10-29,debit,593,Travel
+796,718,2023-11-07,debit,3542,Online Retail
+9773,19,2023-07-06,debit,4427,Online Retail
+4544,962,2023-08-19,credit,2867,Entertainment
+2523,106,2023-07-12,debit,1199,Rent
+4645,560,2023-06-20,debit,1444,Entertainment
+1184,546,2023-08-31,debit,2585,Utilities
+8425,712,2023-10-14,debit,4719,Utilities
+7937,171,2023-06-27,debit,1187,Groceries
+70,242,2023-08-07,credit,4399,Entertainment
+1489,951,2023-08-31,debit,835,Travel
+6920,471,2023-08-06,credit,519,Entertainment
+1941,955,2023-03-24,debit,2985,Travel
+9666,189,2023-03-15,debit,2886,Online Retail
+4651,929,2023-09-25,debit,4158,Entertainment
+1885,807,2023-06-27,debit,3144,Restaurants
+9653,666,2023-04-16,debit,2641,Utilities
+1611,386,2023-09-12,debit,2107,Online Retail
+3487,856,2023-08-21,debit,3131,Rent
+4789,99,2023-05-16,credit,2869,Rent
+6406,542,2023-03-06,debit,2347,Groceries
+5363,49,2023-01-05,debit,249,Restaurants
+488,253,2023-10-29,debit,421,Online Retail
+1641,49,2023-12-23,debit,3448,Rent
+9690,90,2023-03-11,debit,1781,Entertainment
+4108,875,2023-07-16,debit,3290,Utilities
+7883,339,2023-11-04,debit,1987,Utilities
+6892,110,2023-09-30,debit,164,Groceries
+2812,358,2023-11-24,debit,2685,Entertainment
+2087,958,2023-05-30,credit,3605,Restaurants
+9703,922,2023-09-17,debit,3268,Utilities
+5921,361,2023-05-31,debit,2479,Rent
+4883,840,2023-02-17,debit,1720,Groceries
+1469,391,2023-01-21,credit,3016,Travel
+2318,17,2023-02-04,credit,2735,Travel
+9725,936,2023-09-17,credit,2300,Online Retail
+5893,726,2023-12-21,debit,4917,Online Retail
+2503,2,2023-01-13,debit,2009,Groceries
+2566,874,2023-10-03,debit,550,Utilities
+3422,173,2023-05-31,debit,4873,Rent
+6714,315,2023-03-25,debit,2116,Restaurants
+5268,734,2023-01-29,debit,4844,Online Retail
+1706,55,2023-09-23,debit,4635,Online Retail
+4815,685,2023-07-06,credit,265,Travel
+855,422,2023-03-06,debit,3975,Rent
+4347,514,2023-07-06,credit,4766,Entertainment
+3536,992,2023-02-28,debit,1751,Rent
+4525,301,2023-07-22,debit,3980,Entertainment
+1818,666,2023-08-26,debit,4356,Travel
+4496,819,2023-06-29,debit,4003,Groceries
+43,682,2023-11-04,debit,119,Groceries
+8062,452,2023-05-17,debit,77,Travel
+3519,399,2023-06-15,debit,3775,Travel
+1315,243,2023-03-31,credit,815,Restaurants
+9680,860,2023-11-15,debit,1248,Restaurants
+6633,550,2023-05-06,debit,3487,Restaurants
+888,220,2023-08-31,credit,4871,Groceries
+4698,376,2023-04-02,credit,1852,Rent
+2571,87,2023-07-22,credit,4974,Rent
+7321,471,2023-01-29,debit,2995,Utilities
+5896,450,2023-01-24,debit,1024,Travel
+3428,700,2023-04-07,debit,554,Restaurants
+651,47,2023-06-08,credit,1538,Online Retail
+3099,459,2023-12-03,debit,745,Travel
+526,759,2023-05-08,debit,2977,Groceries
+2798,638,2023-07-26,debit,4731,Groceries
+5779,337,2023-11-04,credit,3924,Travel
+1471,968,2023-01-15,debit,874,Entertainment
+1998,477,2023-11-27,debit,1266,Online Retail
+6275,485,2023-12-04,debit,2964,Rent
+7944,795,2023-09-06,debit,3843,Groceries
+1307,830,2023-07-27,debit,393,Online Retail
+6735,694,2023-05-21,credit,3439,Utilities
+7932,531,2023-10-05,credit,459,Travel
+4990,474,2023-09-16,credit,4863,Entertainment
+9180,94,2023-01-21,debit,144,Utilities
+5380,596,2023-02-15,debit,2270,Utilities
+1425,291,2023-03-27,debit,3185,Online Retail
+4931,65,2023-02-18,debit,3236,Groceries
+912,134,2023-01-12,debit,2457,Utilities
+2885,344,2023-08-19,credit,4002,Groceries
+7432,247,2023-11-29,debit,1094,Groceries
+5655,830,2023-11-06,credit,1099,Utilities
+5548,274,2023-05-30,debit,3883,Utilities
+6556,62,2023-10-03,debit,362,Restaurants
+5579,733,2023-03-05,credit,4142,Restaurants
+1865,558,2023-07-03,debit,3823,Rent
+3146,838,2023-08-04,debit,3630,Online Retail
+5168,13,2023-08-15,debit,2208,Online Retail
+4939,744,2023-07-15,debit,1259,Rent
+2393,953,2023-11-29,credit,1411,Rent
+6435,960,2023-06-17,debit,3260,Online Retail
+1223,386,2023-08-03,debit,3889,Restaurants
+9774,774,2023-08-17,debit,2240,Utilities
+9166,704,2023-07-04,credit,2187,Rent
+167,99,2023-10-21,debit,2415,Restaurants
+8056,480,2023-10-17,credit,1153,Entertainment
+2907,986,2023-12-25,debit,3481,Restaurants
+6475,409,2023-10-07,debit,1119,Restaurants
+8797,654,2023-04-27,debit,1550,Online Retail
+7836,948,2023-03-25,debit,4327,Entertainment
+671,758,2023-02-18,credit,1174,Online Retail
+7491,817,2023-04-21,debit,3429,Travel
+9054,328,2023-09-16,credit,1082,Rent
+7087,932,2023-06-13,credit,4968,Groceries
+5223,525,2023-06-21,credit,2343,Travel
+5373,489,2023-06-26,debit,3434,Online Retail
+511,639,2023-03-10,debit,1070,Online Retail
+2638,866,2023-02-18,debit,2395,Restaurants
+6307,118,2023-01-12,credit,4547,Groceries
+9634,433,2023-11-13,credit,4448,Restaurants
+8309,414,2023-04-26,debit,2793,Travel
+3461,425,2023-04-16,debit,4470,Online Retail
+5859,784,2023-01-13,debit,1459,Groceries
+8840,481,2023-01-07,debit,2386,Travel
+8142,925,2023-02-28,debit,797,Groceries
+3842,862,2023-06-23,debit,3044,Online Retail
+1318,229,2023-01-16,debit,4982,Restaurants
+9249,683,2023-04-30,debit,1180,Entertainment
+3336,467,2023-09-30,debit,799,Groceries
+1156,696,2023-04-02,credit,1552,Travel
+4236,968,2023-10-17,credit,4092,Utilities
+7793,293,2023-09-12,credit,3777,Entertainment
+239,385,2023-08-19,debit,4095,Travel
+6209,746,2023-07-28,debit,187,Rent
+1534,872,2023-06-11,debit,3307,Online Retail
+9545,215,2023-05-14,debit,4864,Restaurants
+9032,152,2023-05-23,debit,1996,Travel
+9146,928,2023-01-13,debit,870,Restaurants
+8626,249,2023-07-05,debit,2673,Utilities
+1092,75,2023-04-27,debit,4267,Rent
+5919,831,2023-03-25,debit,4132,Utilities
+2722,276,2023-05-11,debit,2805,Entertainment
+3718,377,2023-03-28,credit,1723,Rent
+3056,993,2023-09-17,credit,4706,Travel
+2422,591,2023-01-20,credit,1871,Utilities
+3337,930,2023-04-18,credit,1504,Utilities
+6895,93,2023-10-31,debit,2226,Groceries
+8779,758,2023-11-03,debit,815,Groceries
+9853,637,2023-01-25,debit,3395,Online Retail
+8135,855,2023-05-11,debit,2367,Rent
+4704,772,2023-08-26,debit,334,Online Retail
+939,513,2023-08-30,debit,3358,Groceries
+3979,664,2023-04-02,credit,4966,Rent
+4640,41,2023-03-13,credit,584,Groceries
+2870,381,2023-10-22,debit,2075,Travel
+487,191,2023-11-20,debit,1477,Travel
+5878,97,2023-06-23,debit,3046,Restaurants
+9911,294,2023-01-01,credit,4184,Rent
+8194,877,2023-01-18,debit,1057,Restaurants
+1146,183,2023-07-29,credit,1853,Online Retail
+905,508,2023-08-17,debit,2532,Utilities
+3686,224,2023-03-08,debit,4329,Groceries
+3820,47,2023-11-17,debit,1736,Online Retail
+674,802,2023-08-06,debit,4154,Online Retail
+5858,626,2023-04-25,debit,4181,Restaurants
+8476,523,2023-01-13,credit,375,Travel
+5385,566,2023-04-04,credit,2718,Utilities
+7933,410,2023-02-10,debit,1294,Rent
+9181,93,2023-12-29,debit,619,Online Retail
+9527,527,2023-03-27,credit,4618,Entertainment
+1245,985,2023-01-02,credit,1110,Groceries
+8458,487,2023-03-08,debit,2757,Online Retail
+30,956,2023-05-07,credit,2419,Groceries
+9461,567,2023-12-16,credit,30,Entertainment
+1409,995,2023-04-19,debit,2977,Utilities
+3292,238,2023-05-14,debit,2301,Groceries
+9037,894,2023-09-11,credit,1187,Restaurants
+8339,391,2023-01-31,debit,250,Utilities
+2592,966,2023-10-31,debit,4231,Travel
+4104,877,2023-10-24,debit,3668,Groceries
+7575,201,2023-05-29,debit,3330,Online Retail
+7643,901,2023-05-02,debit,4177,Rent
+7144,364,2023-10-10,credit,3222,Utilities
+1166,634,2023-07-27,debit,3439,Rent
+1740,912,2023-06-29,debit,589,Groceries
+5847,376,2023-01-03,credit,3327,Utilities
+9776,155,2023-11-15,debit,1219,Rent
+2273,718,2023-05-26,debit,2876,Entertainment
+3904,906,2023-11-20,credit,4032,Groceries
+738,826,2023-06-15,debit,3475,Utilities
+6907,36,2023-12-20,debit,4667,Rent
+7351,302,2023-03-06,debit,3599,Restaurants
+9714,781,2023-02-27,debit,40,Rent
+1573,726,2023-08-18,credit,1686,Entertainment
+2249,356,2023-01-26,debit,2246,Groceries
+3858,933,2023-03-11,debit,4855,Travel
+4128,649,2023-07-13,debit,2383,Utilities
+2844,654,2023-03-06,debit,2278,Online Retail
+116,725,2023-03-15,credit,1033,Entertainment
+8426,664,2023-06-04,debit,2146,Utilities
+3011,822,2023-02-25,debit,3462,Online Retail
+88,562,2023-01-09,debit,3968,Groceries
+7407,779,2023-04-26,debit,2705,Restaurants
+7791,124,2023-11-10,debit,1216,Online Retail
+5744,191,2023-03-10,credit,3669,Restaurants
+1528,283,2023-02-13,credit,708,Groceries
+833,751,2023-06-25,debit,4740,Online Retail
+5756,423,2023-03-03,debit,845,Groceries
+7170,953,2023-05-27,credit,3750,Entertainment
+3078,650,2023-07-18,credit,149,Restaurants
+4460,749,2023-01-25,credit,4723,Entertainment
+4903,566,2023-09-02,debit,4448,Travel
+9362,294,2023-06-13,debit,2904,Groceries
+3526,442,2023-02-02,credit,2737,Utilities
+2944,364,2023-03-14,debit,1383,Utilities
+2123,660,2023-01-23,debit,3071,Utilities
+4628,998,2023-02-26,credit,1584,Online Retail
+5135,876,2023-10-23,debit,2556,Utilities
+1353,225,2023-07-15,debit,2290,Travel
+4280,501,2023-11-04,credit,3599,Entertainment
+7613,919,2023-07-26,debit,1700,Rent
+1633,177,2023-09-15,debit,4993,Online Retail
+142,139,2023-09-17,debit,4063,Restaurants
+404,861,2023-07-25,credit,2432,Groceries
+8523,783,2023-11-17,debit,4979,Travel
+3797,350,2023-12-11,credit,3658,Rent
+7674,175,2023-06-17,debit,4813,Entertainment
+3725,824,2023-04-05,debit,4652,Rent
+6214,319,2023-09-09,debit,3576,Restaurants
+8154,111,2023-04-16,debit,3614,Utilities
+5798,914,2023-04-12,credit,1278,Online Retail
+4370,767,2023-08-10,credit,3541,Travel
+5974,483,2023-02-19,debit,1175,Rent
+2252,422,2023-05-02,credit,2171,Restaurants
+5713,968,2023-12-18,debit,1480,Online Retail
+5007,733,2023-01-30,credit,614,Restaurants
+4650,380,2023-03-22,debit,1196,Groceries
+2681,381,2023-05-13,credit,2843,Restaurants
+8317,358,2023-04-27,credit,3719,Entertainment
+7226,28,2023-02-22,debit,874,Rent
+8021,280,2023-06-27,debit,3736,Restaurants
+9164,477,2023-06-06,debit,2196,Entertainment
+3926,690,2023-04-21,credit,1246,Online Retail
+921,80,2023-10-28,debit,2924,Online Retail
+2736,997,2023-07-28,debit,2708,Travel
+756,689,2023-06-13,debit,2133,Online Retail
+1754,673,2023-04-13,credit,45,Online Retail
+9272,694,2023-12-17,debit,1206,Entertainment
+5948,98,2023-10-06,debit,2486,Rent
+8275,260,2023-02-13,debit,298,Restaurants
+2418,657,2023-11-11,debit,1915,Entertainment
+7653,880,2023-04-30,debit,775,Utilities
+6022,68,2023-04-11,debit,846,Travel
+6744,425,2023-05-08,debit,874,Utilities
+75,340,2023-09-12,credit,726,Groceries
+9398,538,2023-10-12,debit,4882,Entertainment
+1441,840,2023-05-10,credit,1510,Utilities
+2754,642,2023-01-10,credit,3376,Online Retail
+6423,335,2023-08-01,credit,4106,Rent
+909,929,2023-01-29,debit,4471,Online Retail
+6968,271,2023-07-21,debit,1003,Groceries
+5151,101,2023-04-12,debit,2264,Restaurants
+7094,58,2023-05-26,debit,2159,Restaurants
+2361,397,2023-07-27,debit,4474,Online Retail
+718,607,2023-10-29,debit,2735,Groceries
+6859,350,2023-06-29,debit,341,Utilities
+3729,132,2023-03-18,debit,1506,Restaurants
+7099,686,2023-03-13,debit,887,Rent
+5002,632,2023-03-06,debit,1489,Online Retail
+9887,478,2023-08-19,credit,4110,Rent
+4256,996,2023-10-19,debit,3688,Restaurants
+323,201,2023-03-03,debit,4999,Rent
+5068,591,2023-10-20,debit,4934,Groceries
+6552,318,2023-04-05,credit,3075,Entertainment
+7730,187,2023-02-26,debit,1825,Travel
+7000,708,2023-11-02,debit,2319,Utilities
+7341,446,2023-03-13,credit,4891,Online Retail
+6151,626,2023-12-17,debit,3914,Travel
+8943,197,2023-01-12,debit,3281,Groceries
+2446,852,2023-09-02,credit,1147,Restaurants
+4962,75,2023-07-14,debit,2044,Online Retail
+4133,16,2023-07-31,debit,1961,Utilities
+3253,429,2023-07-08,debit,4548,Entertainment
+5092,633,2023-07-06,credit,1066,Restaurants
+1394,606,2023-05-01,debit,3521,Utilities
+5417,235,2023-12-28,credit,4106,Rent
+6099,606,2023-11-25,debit,4674,Rent
+8329,217,2023-07-18,credit,3539,Online Retail
+7609,494,2023-02-14,credit,122,Rent
+7089,897,2023-04-19,debit,52,Groceries
+9494,594,2023-07-08,credit,817,Rent
+5228,982,2023-04-12,credit,4786,Online Retail
+6405,942,2023-09-15,debit,1207,Groceries
+127,380,2023-12-17,debit,730,Groceries
+3812,118,2023-10-15,debit,3665,Utilities
+7590,458,2023-11-27,debit,448,Online Retail
+4454,753,2023-02-03,debit,2623,Restaurants
+4583,771,2023-10-21,debit,3557,Travel
+1053,717,2023-11-27,debit,2768,Online Retail
+387,673,2023-09-11,debit,4340,Entertainment
+530,921,2023-01-05,credit,1492,Groceries
+4049,796,2023-07-24,credit,4490,Utilities
+2228,859,2023-07-13,debit,1385,Travel
+145,392,2023-07-26,credit,493,Travel
+5999,65,2023-01-04,credit,3397,Entertainment
+4094,210,2023-08-10,credit,83,Entertainment
+2176,617,2023-07-17,debit,4980,Travel
+2906,102,2023-01-30,debit,2956,Entertainment
+8019,125,2023-01-04,debit,1633,Restaurants
+1714,313,2023-11-09,credit,587,Groceries
+3828,871,2023-03-12,debit,2180,Rent
+2437,558,2023-11-22,credit,4469,Entertainment
+6610,690,2023-04-20,credit,1762,Utilities
+4159,666,2023-05-18,debit,3332,Utilities
+564,570,2023-09-09,debit,230,Restaurants
+9177,974,2023-03-19,credit,4216,Groceries
+6415,648,2023-08-15,credit,259,Online Retail
+782,342,2023-05-30,debit,1323,Groceries
+8834,182,2023-09-04,debit,2455,Entertainment
+3754,119,2023-07-02,debit,4130,Restaurants
+3182,515,2023-08-14,debit,668,Online Retail
+4244,921,2023-12-20,credit,4453,Groceries
+658,218,2023-07-29,debit,2517,Rent
+4847,417,2023-11-23,debit,3684,Utilities
+5319,124,2023-10-16,debit,306,Restaurants
+6872,50,2023-09-02,debit,3204,Restaurants
+6421,872,2023-10-24,debit,489,Online Retail
+7678,256,2023-08-20,debit,2902,Travel
+3155,471,2023-11-12,credit,2253,Groceries
+2149,99,2023-02-05,debit,3304,Rent
+7440,552,2023-04-12,debit,3693,Utilities
+7436,588,2023-09-04,debit,2105,Groceries
+7202,192,2023-12-10,debit,4690,Entertainment
+1456,225,2023-08-17,debit,3092,Rent
+6577,790,2023-04-26,credit,4124,Groceries
+9587,341,2023-06-25,credit,3267,Travel
+8500,679,2023-04-19,debit,917,Online Retail
+5539,606,2023-07-20,credit,3950,Online Retail
+7569,758,2023-07-07,credit,2607,Utilities
+5019,53,2023-11-05,debit,469,Groceries
+8419,599,2023-03-02,debit,1226,Rent
+6375,144,2023-03-06,debit,583,Travel
+7400,752,2023-10-25,debit,610,Utilities
+5102,850,2023-02-15,debit,4931,Groceries
+5021,313,2023-09-15,debit,1986,Groceries
+9410,391,2023-10-28,credit,436,Online Retail
+4129,524,2023-12-02,credit,3984,Rent
+2698,261,2023-10-19,debit,3549,Entertainment
+5466,450,2023-09-11,debit,4100,Restaurants
+3807,476,2023-10-26,debit,36,Rent
+4575,910,2023-07-09,debit,3445,Travel
+4644,75,2023-09-29,credit,1222,Online Retail
+8002,321,2023-11-12,debit,2944,Rent
+2013,995,2023-01-26,credit,4328,Entertainment
+8144,730,2023-06-06,credit,52,Restaurants
+1304,350,2023-11-15,credit,4063,Online Retail
+7960,778,2023-09-02,debit,190,Rent
+2780,126,2023-09-14,debit,1435,Online Retail
+5812,900,2023-11-27,credit,1777,Groceries
+4455,867,2023-09-20,debit,1822,Rent
+7022,845,2023-01-22,credit,4015,Restaurants
+242,958,2023-01-30,debit,2860,Online Retail
+9740,699,2023-11-07,debit,2109,Restaurants
+9158,889,2023-11-04,credit,481,Travel
+3631,598,2023-08-17,debit,3170,Travel
+2026,39,2023-04-23,debit,4199,Rent
+2858,681,2023-02-22,credit,2509,Groceries
+316,198,2023-11-11,debit,415,Groceries
+6896,862,2023-06-09,debit,2849,Online Retail
+25,492,2023-04-18,credit,844,Utilities
+9941,544,2023-01-30,debit,4128,Utilities
+6945,65,2023-06-28,debit,3790,Travel
+6643,573,2023-12-02,debit,4757,Travel
+9115,95,2023-08-11,debit,1399,Groceries
+7323,87,2023-03-20,credit,1058,Groceries
+9187,291,2023-07-05,credit,4665,Restaurants
+1826,838,2023-04-24,credit,3811,Travel
