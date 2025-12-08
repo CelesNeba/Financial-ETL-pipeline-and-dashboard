@@ -8,11 +8,6 @@ Customer transaction analytics &amp; risk insights
 
 ### Problem statement: Banks and fintechs must monitor customer transactions to maximize lifetime value and minimize risk. This project uses transaction-level data to answer business questions such as:
 
-Project title: Customer Transaction Analytics & Risk Insights — end-to-end ETL, analytics, and interactive Tableau Public dashboards.
-
-Problem statement: Banks and fintechs must monitor customer transactions to maximize lifetime value and minimize risk. This project uses transaction-level data to answer business questions such as:
-
-
 • Who are our most valuable customers (by deposits & fees)?
 
 • Where do fraud losses and risk concentrations exist?
