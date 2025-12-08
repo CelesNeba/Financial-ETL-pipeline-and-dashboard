@@ -89,3 +89,13 @@ You can **click below to view or download the financial transactions dataset** u
 ## Load to the analytics layer
 
 * Store final models/tables: mart_customer_health, mart_fraud_alerts, mart_revenue_by_category.
+
+
+### Orchestration & Scheduling
+
+* Use Airflow: schedule daily ingestion, dbt models run after load, tests.
+
+* Track DAG run statuses & SLAs.
+
+### Monitoring & data quality
+* Row-count checks, null rate thresholds, value distribution drift detection.
