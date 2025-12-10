@@ -114,6 +114,10 @@ Apply normalization
 
 * dim_customers — 1 row per customer (customer-level attributes)
 
+
+![dim_customers table](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/dim_customers%20table.JPG?raw=true)
+
+
 * fact_transactions — cleaned transactions
 
 * agg_customer_monthly — monthly aggregates per customer
