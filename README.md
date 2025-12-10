@@ -69,8 +69,15 @@ You can **click below to view or download the financial transactions dataset** u
 ![Apply Normalization Screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Apply%20normalization.JPG?raw=true)
 
 
+Insert Values Into Merchant Category
+
 ![Insert Values Into Merchant Category Screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Insert%20values%20into%20mercharnt%20category%20screenshot.JPG?raw=true)
 
+
+
+Apply normalization 
+
+![Apply Normalization Screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Apply%20normalization.JPG?raw=true)
 
 
 * Convert transaction_date to date/time with timezone if needed.
