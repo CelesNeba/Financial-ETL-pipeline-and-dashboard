@@ -145,6 +145,8 @@ Add contextual information to enrich transactions and customer data.
 #### Purpose:
  Create predictive features that capture customer behavior over time.
 
+![Transactions in last 30 days per customer](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Transactions%20in%20last%2030%20days%20per%20customer.JPG?raw=true)
+
 
 * label churn = no tx in last X months (choose X = 3/6)
 
