@@ -82,6 +82,10 @@ Apply normalization
 
 * Convert transaction_date to date/time with timezone if needed.
 
+
+![Convert transaction_date to proper DATETIME](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Convert%20transaction_date%20to%20proper%20DATETIME.JPG?raw=true)
+
+
 * Add flags: is_recurring (if merchant repeated each month), is_salary, rolling_30d_spend, active_30d etc.
 
 
