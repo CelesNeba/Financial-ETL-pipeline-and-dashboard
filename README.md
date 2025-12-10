@@ -95,6 +95,10 @@ Apply normalization
 ![is_salary flag](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/is_salary%20flag.JPG?raw=true)
 
 
+![is_recurring (merchant used every month)](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/is_recurring%20(merchant%20used%20every%20month).JPG?raw=true)
+
+
+
 
 
 ### Aggregate base tables:
