@@ -92,6 +92,10 @@ Apply normalization
 ![Behavioural flag screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Behavioural%20flag%20screenshot.JPG?raw=true)
 
 
+![is_salary flag](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/is_salary%20flag.JPG?raw=true)
+
+
+
 
 ### Aggregate base tables:
 
