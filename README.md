@@ -1,8 +1,8 @@
 # Financial-ETL-pipeline-and-dashboard
-Customer transaction analytics &amp; risk insights
+Customer transaction analytics & risk insights
 
 
-## 1) Project summary / problem statement (elevator pitch)
+## 1) Project summary/problem statement (elevator pitch)
 
 ### Project title: Customer transaction analytics & risk insights — end-to-end ETL, analytics, and interactive Tableau Public dashboards.
 
@@ -186,6 +186,36 @@ Churned customers are those with no transactions in the last X months. We can ch
 * Use Airflow: schedule daily ingestion, dbt models run after load, and tests.
 
 * Track DAG run statuses & SLAs.
+#### At this stage of Orchestration & Scheduling, we are making our ETL workflow automatic, reliable, and monitorable.
+
+### Purpose of Orchestration & Scheduling
+
+* Orchestration: Control the order in which ETL tasks run (load → transform → aggregate → tests → dashboards).
+
+* Scheduling: Decide when these tasks run (daily, hourly, weekly).
+
+* Monitoring: Track if tasks succeed or fail and alert if something goes wrong.
+
+* Tools: Apache Airflow 
+
+#### Typical Airflow DAG (Workflow) for my Project
+
+- DAG = Directed Acyclic Graph, represents task dependencies.
+
+#### High-level DAG for my Financial ETL pipeline:
+
+* Extract (Load CSV or source data)
+
+* Transform (dbt models or SQL transformations)
+
+* Enrich (Add features, join external tables)
+
+* Load to Analytics Layer (marts: customer_health, fraud_alerts, revenue_by_category)
+
+* Run dbt tests
+
+* Trigger Tableau dashboard refresh
+
 
 ### Monitoring & data quality
 * Row-count checks, null rate thresholds, and value distribution drift detection.
