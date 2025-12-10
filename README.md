@@ -65,6 +65,10 @@ You can **click below to view or download the financial transactions dataset** u
 
 * Normalize merchant categories (mapping table).
 
+
+![Apply Normalization Screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Apply%20normalization.JPG?raw=true)
+
+
 * Convert transaction_date to date/time with timezone if needed.
 
 * Add flags: is_recurring (if merchant repeated each month), is_salary, rolling_30d_spend, active_30d etc.
