@@ -135,7 +135,11 @@ Apply normalization
 
 * Join external tables (merchant risk score, MCC codes, macro indicators).
 
+Purpose: Add contextual information to enrich transactions and customer data.
+
 * Feature engineering for churn/fraud:
+
+  Purpose: Create predictive features that capture customer behavior over time.
 
 * tx_count_30d, avg_amount_90d, pct_online_tx, decline_rate, largest_tx_amount, gini_spend (concentration)
 
