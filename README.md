@@ -196,9 +196,9 @@ Churned customers are those with no transactions in the last X months. We can ch
 
 * Monitoring: Track if tasks succeed or fail and alert if something goes wrong.
 
-* Tools: Apache Airflow 
+* Tool:  PERFECT
 
-#### Typical Airflow DAG (Workflow) for my Project
+#### Typical PERFECT DAG (Workflow) for my Project
 
 - DAG = Directed Acyclic Graph, represents task dependencies.
 
@@ -217,5 +217,5 @@ Churned customers are those with no transactions in the last X months. We can ch
 * Trigger Tableau dashboard refresh
 
 
-### Monitoring & data quality
-* Row-count checks, null rate thresholds, and value distribution drift detection.
+### Automate everything daily using PERFECT 
+* Run the full ETL pipeline daily
