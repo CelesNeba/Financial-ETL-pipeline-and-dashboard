@@ -102,6 +102,11 @@ Apply normalization
 
 
 
+![active_30d (customer made any transaction in last 30 days) screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/active_30d%20(customer%20made%20any%20transaction%20in%20last%2030%20days)%20screenshot.JPG?raw=true)
+
+
+
+
 
 
 
