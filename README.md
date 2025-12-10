@@ -98,6 +98,10 @@ Apply normalization
 ![is_recurring (merchant used every month)](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/is_recurring%20(merchant%20used%20every%20month).JPG?raw=true)
 
 
+![rolling_30d_spend (window sum) screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/rolling_30d_spend%20(window%20sum)%20screenshot.JPG?raw=true)
+
+
+
 
 
 
