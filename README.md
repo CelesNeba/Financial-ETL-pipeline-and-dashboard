@@ -127,6 +127,10 @@ Apply normalization
 * agg_customer_monthly — monthly aggregates per customer
 
 
+![Agg customers monthly table](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Agg%20customers%20monthly%20table.JPG?raw=true)
+
+
+
 ## Enrich
 
 * Join external tables (merchant risk score, MCC codes, macro indicators).
