@@ -148,10 +148,12 @@ Add contextual information to enrich transactions and customer data.
 ![Transactions in last 30 days per customer](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Transactions%20in%20last%2030%20days%20per%20customer.JPG?raw=true)
 
 
-* label churn = no tx in last X months (choose X = 3/6)
+* Label churn = no tx in last X months ( X = 3/6)
 
 #### Definition:
 Churned customers are those with no transactions in the last X months. You can choose X = 3 or 6 depending on your business logic.
+
+![Add churn label to customers](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Add%20churn%20label%20to%20customers.JPG?raw=true)
 
 ## Load to the analytics layer
 
