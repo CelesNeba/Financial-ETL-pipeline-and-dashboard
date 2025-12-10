@@ -151,7 +151,7 @@ Add contextual information to enrich transactions and customer data.
 * Label churn = no tx in last X months ( X = 3/6)
 
 #### Definition:
-Churned customers are those with no transactions in the last X months. You can choose X = 3 or 6 depending on your business logic.
+Churned customers are those with no transactions in the last X months. We can choose X = 3 or 6, depending on our business logic.
 
 ![Add churn label to customers](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Add%20churn%20label%20to%20customers.JPG?raw=true)
 
@@ -159,12 +159,14 @@ Churned customers are those with no transactions in the last X months. You can c
 
 * Store final models/tables: mart_customer_health, mart_fraud_alerts, mart_revenue_by_category.
 
+  #### This means that we are moving our transformed and enriched data into the analytics layer, the layer where business users, BI tools (like Tableau/Power BI), or machine learning models can consume it easily.
+
 
 ### Orchestration & Scheduling
 
-* Use Airflow: schedule daily ingestion, dbt models run after load, tests.
+* Use Airflow: schedule daily ingestion, dbt models run after load, and tests.
 
 * Track DAG run statuses & SLAs.
 
 ### Monitoring & data quality
-* Row-count checks, null rate thresholds, value distribution drift detection.
+* Row-count checks, null rate thresholds, and value distribution drift detection.
