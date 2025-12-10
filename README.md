@@ -161,6 +161,19 @@ Churned customers are those with no transactions in the last X months. We can ch
 
   #### This means that we are moving our transformed and enriched data into the analytics layer, the layer where business users, BI tools (like Tableau/Power BI), or machine learning models can consume it easily.
 
+#### We now have three key analytical tables (mart tables):
+
+Table                                                                              	Purpose
+mart_customer_health	                        Tracks customer activity, churn, engagement, and other behavioral metrics per customer
+
+
+mart_fraud_alerts                             Stores flagged suspicious transactions or high-risk customers for fraud monitoring
+
+mart_revenue_by_category                      Aggregated revenue metrics per merchant category, per month or year
+
+
+
+
 
 ### Orchestration & Scheduling
 
