@@ -89,6 +89,10 @@ Apply normalization
 * Add flags: is_recurring (if merchant repeated each month), is_salary, rolling_30d_spend, active_30d etc.
 
 
+![Behavioural flag screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Behavioural%20flag%20screenshot.JPG?raw=true)
+
+
+
 ### Aggregate base tables:
 
 * dim_customers — 1 row per customer (customer-level attributes)
