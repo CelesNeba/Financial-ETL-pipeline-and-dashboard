@@ -60,6 +60,9 @@ You can **click below to view or download the financial transactions dataset** u
 
 * Remove duplicates based on transaction_id.
 
+  ![Remove duplicates screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Remove%20duplicates%20screenshot%2010.JPG?raw=true)
+
+
 * Normalize merchant categories (mapping table).
 
 * Convert transaction_date to date/time with timezone if needed.
