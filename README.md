@@ -135,15 +135,19 @@ Apply normalization
 
 * Join external tables (merchant risk score, MCC codes, macro indicators).
 
-Purpose: Add contextual information to enrich transactions and customer data.
+#### Purpose: 
+Add contextual information to enrich transactions and customer data.
 
 * Feature engineering for churn/fraud:
 
-  Purpose: Create predictive features that capture customer behavior over time.
+#### Purpose:
+ Create predictive features that capture customer behavior over time.
 
-* tx_count_30d, avg_amount_90d, pct_online_tx, decline_rate, largest_tx_amount, gini_spend (concentration)
 
 * label churn = no tx in last X months (choose X = 3/6)
+
+#### Definition:
+Churned customers are those with no transactions in the last X months. You can choose X = 3 or 6 depending on your business logic.
 
 ## Load to the analytics layer
 
