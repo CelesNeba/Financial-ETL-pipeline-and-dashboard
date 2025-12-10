@@ -120,6 +120,9 @@ Apply normalization
 
 * fact_transactions — cleaned transactions
 
+![fact_transactions Table](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob)_]()
+
+
 * agg_customer_monthly — monthly aggregates per customer
 
 
