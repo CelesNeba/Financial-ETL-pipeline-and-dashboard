@@ -166,9 +166,16 @@ Churned customers are those with no transactions in the last X months. We can ch
 ##### Table & purpose
 * mart_customer_health:	Tracks customer activity, churn, engagement, and other behavioral metrics per customer
 
+[![mart_customer_health table](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/mart_customer_healt%20table.JPG?raw=true)](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/mart_customer_healt%20table.JPG)
+
 * mart_fraud_alerts:    Stores flagged suspicious transactions or high-risk customers for fraud monitoring
 
+[![Fraud alert table](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Fraud%20alert%20table.JPG?raw=true)](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Fraud%20alert%20table.JPG)
+
 * mart_revenue_by_category: Aggregated revenue metrics per merchant category, per month or year
+
+  [![Revenue by category table](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/mart%20revenue%20bt%20category.JPG?raw=true)](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/mart%20revenue%20bt%20category.JPG)
+  
 
 
 
