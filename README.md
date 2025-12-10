@@ -138,6 +138,8 @@ Apply normalization
 #### Purpose: 
 Add contextual information to enrich transactions and customer data.
 
+![Join merchant risk score to transactions](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Join%20merchant%20risk%20score%20to%20transactions.JPG?raw=true)
+
 * Feature engineering for churn/fraud:
 
 #### Purpose:
