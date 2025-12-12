@@ -196,7 +196,7 @@ Churned customers are those with no transactions in the last X months. We can ch
 
 * Monitoring: Track if tasks succeed or fail and alert if something goes wrong.
 
-* Tool:  PERFECT
+* Tool:  GitHub Actions
 
 #### Typical PERFECT DAG (Workflow) for my Project
 
@@ -217,5 +217,5 @@ Churned customers are those with no transactions in the last X months. We can ch
 * Trigger Tableau dashboard refresh
 
 
-### Automate everything daily using PERFECT 
+### Automate everything daily using GitHub Actions
 * Run the full ETL pipeline daily
