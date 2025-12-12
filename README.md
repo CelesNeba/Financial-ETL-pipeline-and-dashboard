@@ -181,7 +181,7 @@ Churned customers are those with no transactions in the last X months. We can ch
 
 
 
-### Orchestration & Scheduling
+### ETL Orchestration & Scheduling
 
 * Use Airflow: schedule daily ingestion, dbt models run after load, and tests.
 
@@ -197,8 +197,8 @@ Churned customers are those with no transactions in the last X months. We can ch
 * Monitoring: Track if tasks succeed or fail and alert if something goes wrong.
 
 ### Tool: 
-* GitHub Actions
+* Windows task scheduler (for automating daily runs)
 
 
-### Automate everything daily using GitHub Actions
-* Run the full ETL pipeline daily
+### Automate everything daily 
+* 
