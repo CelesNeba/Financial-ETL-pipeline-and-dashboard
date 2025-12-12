@@ -196,25 +196,8 @@ Churned customers are those with no transactions in the last X months. We can ch
 
 * Monitoring: Track if tasks succeed or fail and alert if something goes wrong.
 
-* Tool:  GitHub Actions
-
-#### Typical PERFECT DAG (Workflow) for my Project
-
-- DAG = Directed Acyclic Graph, represents task dependencies.
-
-#### High-level DAG for my Financial ETL pipeline:
-
-* Extract (Load CSV or source data)
-
-* Transform (dbt models or SQL transformations)
-
-* Enrich (Add features, join external tables)
-
-* Load to Analytics Layer (marts: customer_health, fraud_alerts, revenue_by_category)
-
-* Run dbt tests
-
-* Trigger Tableau dashboard refresh
+### Tool: 
+* GitHub Actions
 
 
 ### Automate everything daily using GitHub Actions
