@@ -183,7 +183,7 @@ Churned customers are those with no transactions in the last X months. We can ch
 
 ### ETL Orchestration & Scheduling
 
-* Use Airflow: schedule daily ingestion, dbt models run after load, and tests.
+* Use Windows task scheduler: schedule daily ingestion, dbt models run after load, and tests.
 
 * Track DAG run statuses & SLAs.
 #### At this stage of Orchestration & Scheduling, we are making our ETL workflow automatic, reliable, and monitorable.
