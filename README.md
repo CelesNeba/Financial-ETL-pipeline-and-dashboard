@@ -1,4 +1,4 @@
-# Financial-ETL-pipeline-and-dashboard
+# Automated Financial-ETL-pipeline-and-dashboard
 Customer transaction analytics & risk insights
 
 
