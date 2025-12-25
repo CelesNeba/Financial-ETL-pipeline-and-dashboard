@@ -229,7 +229,7 @@ Churned customers are those with no transactions in the last X months. We can ch
 
 ### My recommendation based on the analysis to stakeholders
 
-To significantly increase revenue, we must capitalize on our strengths and address key areas for improvement. I recommend focusing on optimizing the customer experience and marketing efforts within our top-performing "Transfers" merchant category, as well as implementing a dedicated retention program for our 5 most valuable customers. Simultaneously, by understanding and mitigating the factors driving churn within the Mass Market segment, we can unlock significant revenue potential by retaining a larger portion of this customer base. These targeted strategies will drive both immediate and long-term revenue growth
+To significantly increase revenue, we must capitalize on our strengths and address key areas for improvement. I recommend focusing on optimizing the customer experience and marketing efforts within our top-performing "Transfers" merchant category, as well as implementing a dedicated retention program for our most valuable customers. Simultaneously, by understanding and mitigating the factors driving churn within the Mass Market segment, we can unlock significant revenue potential by retaining a larger portion of this customer base. These targeted strategies will drive both immediate and long-term revenue growth
 
 
 
