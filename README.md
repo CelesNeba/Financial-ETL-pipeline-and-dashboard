@@ -209,3 +209,7 @@ Churned customers are those with no transactions in the last X months. We can ch
 ![Task schedule screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Task%20schedule%20screenshot%202.JPG)
 
 
+![Task schedule screenshot](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Task%20schedule%20screenshot%203.JPG)
+
+
+
