@@ -4,7 +4,7 @@ Customer transaction analytics & risk insights
 
 ## 1) Project summary/problem statement (elevator pitch)
 
-### Project title: Customer transaction analytics & risk insights — end-to-end ETL, analytics, and interactive Tableau Public dashboards.
+### Project title: Automated customer transaction analytics & risk insights — end-to-end ETL, analytics, and interactive Tableau Public dashboards.
 
 ### Problem statement: Banks and fintechs must monitor customer transactions to maximize lifetime value and minimize risk. This project uses transaction-level data to answer business questions such as:
 
@@ -18,12 +18,12 @@ Customer transaction analytics & risk insights
 
 ### Outcome/business value:
 
-A single analytics pipeline and interactive dashboards that let product, risk, and finance teams explore revenue, transaction trends, risk (fraud), and customer health, enabling targeted retention campaigns, fraud mitigation, and more profitable product prioritization.
+An automated analytics pipeline and interactive dashboards that let product, risk, and finance teams explore revenue, transaction trends, risk (fraud), and customer health, enabling targeted retention campaigns, fraud mitigation, and more profitable product prioritization.
 
 
 ### Tools & Technology Stack
 *   Jupyter Notebook: Used for initial data exploration, analysis, and prototyping.
-*   Prefect: Orchestrates the ETL pipeline, ensuring reliable and repeatable data workflows.
+*   Windows task scheduler: Orchestrates the ETL pipeline, ensuring reliable and repeatable data workflows.
 *   dbt Core (with MySQL): Performs data transformations, cleaning, and modeling within the MySQL data warehouse.
 *   MySQL: Serves as the primary data warehouse, storing both raw and transformed data.
 *   Tableau Public: Creates interactive dashboards and visualizations for data exploration and presentation.
@@ -222,6 +222,14 @@ Churned customers are those with no transactions in the last X months. We can ch
 
 
 ![Financial Dashboard](https://github.com/CelesNeba/Financial-ETL-pipeline-and-dashboard/blob/main/Fiancial%20Dashboard.JPG)
+
+
+
+
+
+### My recommendation based on the analysis
+
+To significantly increase revenue, we must capitalize on our strengths and address key areas for improvement. I recommend focusing on optimizing the customer experience and marketing efforts within our top-performing "Transfers" merchant category, as well as implementing a dedicated retention program for our 5 most valuable customers. Simultaneously, by understanding and mitigating the factors driving churn within the Mass Market segment, we can unlock significant revenue potential by retaining a larger portion of this customer base. These targeted strategies will drive both immediate and long-term revenue growth
 
 
 
